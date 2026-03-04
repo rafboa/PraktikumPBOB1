@@ -70,7 +70,7 @@ public class Titik {
         } else if (absis > 0 && ordinat < 0) {
             return 4;
         } else {
-            return 0; // Titik berada pada sumbu
+            return 0; 
         }
     }
     
