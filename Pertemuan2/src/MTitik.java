@@ -29,7 +29,7 @@ public class MTitik {
         Titik T4 = new Titik(3,5 );
 
         System.out.print("Jumlah Objek Titik = " + Titik.getCounterTitik());
-         System.out.print("Jumlah Objek Titik = " + T4.getCounterTitik());
+        System.out.print("Jumlah Objek Titik = " + T4.getCounterTitik());
 
     }
 }
